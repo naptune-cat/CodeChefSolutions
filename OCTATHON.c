@@ -1,3 +1,4 @@
+// solution for the problem https://www.codechef.com/START103D/problems/OCTATHON
 #include <stdio.h>
 
 int main(void) {
